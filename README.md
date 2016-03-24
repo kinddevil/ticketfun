@@ -2,8 +2,8 @@
 Ticket Fun
 
 Crawl
-  Nutch
-  Scrapy
+  -Nutch
+  -Scrapy
 
 CMS
 
